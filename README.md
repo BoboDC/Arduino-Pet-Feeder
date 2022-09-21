@@ -15,6 +15,7 @@ RTC Module
 4x4 Matrix Keyboard
 
 The project diagram:
+
 ![image](https://user-images.githubusercontent.com/112874778/191435227-e51c2b24-999b-431c-a091-8de451e5713a.png)
 
 How it works?
@@ -22,6 +23,7 @@ The human will fill the tube with the chosen food and then hit “#” on the ke
 
 
 Schematics:
+
 ![image](https://user-images.githubusercontent.com/112874778/191435269-cb859f11-587f-420b-9e5c-c46b04185502.png)
 
 
